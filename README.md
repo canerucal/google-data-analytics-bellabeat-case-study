@@ -9,14 +9,14 @@ This case study includes the six steps of data analysis process which suggested 
 
 [1-Ask](#ask)
 
-2-Prepare
+[2-Prepare](#prepare)
 
-3-Process
+[3-Process](#process)
 
-4-Analyze
+[4-Analyze](#analyze)
 
-5-Share
+[5-Share](#share)
 
-6-Act
+[6-Act](#act)
 
-### Ask
+# Ask
