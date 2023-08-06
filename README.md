@@ -8,19 +8,19 @@
 
 This case study includes the six steps of data analysis process which suggested by Google:
 
-### [Scenario](#scenario)
+### [Scenario](#scenario-1)
 
-### [1-Ask](#1-ask)
+### [1-Ask](#1-ask-1)
 
-### [2-Prepare](#prepare)
+### [2-Prepare](#2-prepare-1)
 
-### [3-Process](#process)
+### [3-Process](#3-process-1)
 
-### [4-Analyze](#analyze)
+### [4-Analyze](#4-analyze-1)
 
-### [5-Share](#share)
+### [5-Share](#5-share-1)
 
-### [6-Act](#act)
+### [6-Act](#6-act-1)
 
 # Scenario
 
@@ -61,3 +61,7 @@ You will present your analysis to the Bellabeat executive team along with your h
 fdskafdlkasfas
 fdkslaşfşkdsa
 fd
+
+# 2-Prepare
+
+# 3-Process
